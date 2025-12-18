@@ -1,3 +1,14 @@
 ./defect-classification-in-stem-images/
 ./DTMicroscope/
-./data/
+data/image_data
+data/Mos2_monolayer
+data/MoS2_Nanowire
+data/SnSe
+
+*.h5
+*.pt
+*.pth
+./viz_outputs/
+mask_outputs
+other_data
+viz_outputs
